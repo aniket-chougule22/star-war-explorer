@@ -34,8 +34,8 @@ A modern and interactive React app that allows you to explore characters from th
 ### Clone the repo
 
 ```bash
-git clone https://github.com/your-username/star-wars-explorer.git
-cd star-wars-explorer
+git clone https://github.com/aniket-chougule22/star-war-explorer
+cd star-war-explorer
 
 npm install
 
