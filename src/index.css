@@ -1,0 +1,9 @@
+@import "tailwindcss";
+body {
+  /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrMSGxaOMurlgxG1eQ4pCQuZJq_UQmJZ07g&s'); */
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIeakUDT_hYwm-o1rsFNGrMSfHXukfPD-iwA&s');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
